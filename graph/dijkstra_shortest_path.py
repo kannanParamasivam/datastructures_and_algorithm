@@ -1,5 +1,7 @@
 '''Single Source Shortest Path algorithm
-Find shortest path from given source node to all other nodes in graph'''
+Find shortest path from given source node to all other nodes in graph
+Time Complexity - O(n^2)
+Space Complexity - O(2n) -> O(n) To store the result and keep track of visited nodes'''
 
 from typing import List
 from queue import PriorityQueue
