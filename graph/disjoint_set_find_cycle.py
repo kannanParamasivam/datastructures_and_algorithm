@@ -17,7 +17,7 @@ class Graph:
 
         self.adj_mat[self.vertex_lbl[src]][self.vertex_lbl[dest]] = 1
 
-        if not directed:
+        if not self.directed:
             self.adj_mat[self.vertex_lbl[dest]][self.vertex_lbl[src]] = 1
 
 
@@ -28,7 +28,7 @@ class Graph:
         for src in range(len(self.vertex_lbl)):
             for dest in range(len(self.vertex_lbl)):
 
-                if self.adj_mat[src][dest] == 1:
+                if self.adj_mat[src][dest] == 1 and (visitedEdges.get(src) == None or visitedEdges.get(src) != dest):
                     src_parent: int = self.get_parent(src)
                     dest_parent: int = self.get_parent(dest)
 
@@ -42,7 +42,8 @@ class Graph:
                             self.parent[src_parent] = dest_parent
                             self.parent[dest_parent] -= 1
 
-                visitedEdges[dest] = src    
+                    if not self.directed:
+                        visitedEdges[dest] = src    
 
         
         return False
