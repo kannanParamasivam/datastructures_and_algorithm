@@ -12,7 +12,7 @@ class TestMiddleOfSinglyLinkedList(unittest.TestCase):
         pass
     
     
-    def test_find_middle_pint_when_odd_number_of_nodes(self):
+    def test_find_middle_point_when_odd_number_of_nodes(self):
         node1:Node = Node(1, None)
         node2:Node = Node(2, None)
         node3:Node = Node(3, None)
@@ -25,6 +25,10 @@ class TestMiddleOfSinglyLinkedList(unittest.TestCase):
         node4.next = node5
         
         self.assertEqual(find_middle_point(node1), 3) 
+
+    def test_find_middle_point_when_odd_number_of_nodes(self):
+        node1:Node = Node(1, None)
+        self.assertEqual(find_middle_point(node1), 3)
         
 
 if __name__ == '__main__':
