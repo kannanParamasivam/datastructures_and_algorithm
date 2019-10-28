@@ -1,4 +1,11 @@
-# Definition for singly-linked list.
+'''
+Given two numbers in singly linked list form, where each digit will be a node and which is in reverse order, 
+Find sum of these two numbers and return result as linked list where the digital positions are reversed.
+
+123 would be 3->2->1
+546 would be 6->4->5
+result should be 689 which is 9->8->6
+'''
 class ListNode:
     def __init__(self, x):
         self.val = x
