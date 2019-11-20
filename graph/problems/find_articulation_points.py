@@ -1,11 +1,12 @@
 from collections import defaultdict
 from typing import List
+from sys import maxint
 
 class Node:
     def __init__(self, val):
         self.val = val
-        self.dfn_no = -1
-        self.low_dfn_no = -1
+        self.dfn = -1
+        self.low_dfn = -1
         self.children = []
         
 
@@ -13,21 +14,51 @@ class ArticulationFinder:
     
     def __init__(self):
         self.nodes = defaultdict(list)
-        
+        self.ap = set()
+        self.dfn = 1
+        self.visited = set()
     
     def find_articulation_point(self,connections: List[List[int]]):
+        
         for connection in connections:
-            src = None
-            if connection[0] in self.nodes:
-                src = self.nodes[connection[0]]
-            else:
-                src = Node(connection[0])
-                
-            dest = None
+            self.create_connection(connection)
             
-            if connections[1] in self.nodes:
-                dest = self.nodes[connection[1]]
+        self.nodes[1].low_dfn = 1
+        dfs(1)
+        
+        
+    def dfs(self, parent):
+        node = self.nodes[parent]
+        node.dfn = self.dfn
+        node.low_dfn = self.dfn
+        self.dfn += 1
+        visited.add(self.node.val)
+        
+        for child in node.children:
+            if child.val in visited:
+                node.low_dfn = child.dfn if node.low_dfn > child.dfn else node.low_dfn
             else:
-                dest = Node(connection[1])
+                low_dfn = dfs(child)
+                node.low_dfn = low_dfn if node.low_dfn > child.low_dfn else node.low_dfn
                 
-            src.children.a
+            if child.low_dfn >= node.dfn:
+                self.ap.append(node.val)
+        
+        return node.low_dfn
+            
+    
+    def create_connection(self, connection:List[int]):
+        src = None
+        if connection[0] in self.nodes:
+            src = self.nodes[connection[0]]
+        else:
+            src = Node(connection[0])
+            
+        dest = None
+        
+        if connection[1] in self.nodes:
+            dest = self.nodes[connection[1]]
+        else:
+            dest = Node(connection[1])
+            
+        src.children.append(dest)
