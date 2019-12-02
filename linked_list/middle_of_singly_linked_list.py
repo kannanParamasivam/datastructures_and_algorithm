@@ -1,3 +1,4 @@
+''' Find middle element of linked list'''
 class Node:
     
     def __init__(self, data:int, next):
