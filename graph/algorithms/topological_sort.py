@@ -1,3 +1,7 @@
+'''
+In directed asyclic graph (DAG) TS is linear sorting sunch that for every edge UV node U comes before node V
+'''
+
 from collections import defaultdict
 
 
