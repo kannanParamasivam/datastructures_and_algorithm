@@ -1,5 +1,5 @@
 '''
-    Quick Sort is divide and conqure algorithm
+    Quick Sort is divide and conqure algorithm with recursion
     * In-Place sorting
     * Best time O(N log N)
     * Worst time O(N^2) if array is already sorted
@@ -21,7 +21,6 @@ class QuickSort:
             pivot = self.partition(nums, l, h)
             self.quickSort(nums, l, pivot - 1)
             self.quickSort(nums, pivot + 1, h)
-
 
     
     def partition(self, nums, l, h):
@@ -57,10 +56,6 @@ class QuickSort:
         nums[i] = nums[j]
         nums[j] = temp
 
-
-
-
-            
 
 nums = [3,2,1,5,6,4]
 print(nums)
