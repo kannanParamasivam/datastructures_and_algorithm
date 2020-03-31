@@ -1,3 +1,3 @@
 print('__init__')
-from .tree_creator import TreeCreator
+from .tree_helper import TreeHelper
 from .node import Node
