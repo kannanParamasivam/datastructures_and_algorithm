@@ -1,21 +1,40 @@
-from helpers import TreeCreator
+from helpers import TreeHelper
 from helpers import Node
 from collections import deque, namedtuple
 
-QueueNode = namedtuple('QueueNode', ['node', 'level'])
+BalanceAndHeight = namedtuple('BalanceAndHeight', ['balanced', 'height'])
 
-# root: Node = TreeCreator.create_nodes([1,2,3,4,5,6,7,8,9])
 
-root: Node = TreeCreator.create_nodes([1, 2, 3, 4, 5, 6, 7, 8, 9])
+class Solution:
 
-q = deque()
-q.append(QueueNode(root, 0))
 
-while len(q) > 0:
-	queue_item: QueueNode = q.popleft()
+	def isBalanced(self, root: Node):
+		return self.is_height_balanced(root).balanced
 
-	if queue_item and queue_item.node:
-		print('\t'*queue_item.level + str(queue_item.node.val))
-		q.append(QueueNode(queue_item.node.left, queue_item.level+1))
-		q.append(QueueNode(queue_item.node.right, queue_item.level+1))
 
+	def is_height_balanced(self, root):
+
+		if not root or not root.val:
+			return BalanceAndHeight(balanced=True, height=0)
+
+		left_balance_and_height = self.is_height_balanced(root.left)
+
+		if not left_balance_and_height.balanced:
+			return left_balance_and_height
+
+		right_balance_and_height = self.is_height_balanced(root.right)
+
+		if not right_balance_and_height:
+			return right_balance_and_height
+
+		if abs(left_balance_and_height.height - right_balance_and_height.height) <= 1:
+			h = max([left_balance_and_height.height, right_balance_and_height.height])+1
+			return BalanceAndHeight(balanced=True, height=h)
+		else:
+			h = max([left_balance_and_height.height, right_balance_and_height.height])+1
+			return BalanceAndHeight(balanced=False, height=h)
+
+
+root: Node = TreeHelper.create_tree([3, 9, 20, None, None, 15, 7])
+TreeHelper.print_tree(root)
+print(Solution().isBalanced(root))
