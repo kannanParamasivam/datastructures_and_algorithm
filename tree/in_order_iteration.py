@@ -23,6 +23,7 @@ Input: [1,null,2,3]
 Output: [1,3,2]
 Follow up: Recursive solution is trivial, could you do it iteratively
 '''
+
 from typing import List
 from helpers import TreeHelper, Node
 from collections import namedtuple
@@ -64,7 +65,7 @@ class Solution:
 
 
 sol = Solution()
-print(sol.inorderTraversal(TreeHelper.create_tree([1, None, 2, None, None, 3, None])))
+assert sol.inorderTraversal(TreeHelper.create_tree([1, None, 2, None, None, 3, None])) == [1,3,2]
 
 
 
