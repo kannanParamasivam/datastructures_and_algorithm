@@ -49,7 +49,7 @@ class Solution:
 
 
 sol = Solution()
-# lst = [0,1,0,3,12]
-lst = [1]
+lst = [0,1,0,3,12]
+#lst = [1]
 sol.moveZeroes(lst)
 print(lst)
