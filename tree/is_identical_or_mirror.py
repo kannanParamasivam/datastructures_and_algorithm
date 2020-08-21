@@ -1,3 +1,11 @@
+'''
+Check if two trees are same. It should satisfying any of the following conditions
+
+1. Both trees are identical
+2. One tree is mirror of another
+3. Some of the subtrees are mirror and some are identical
+'''
+
 from helpers import TreeHelper
 from helpers import Node
 
