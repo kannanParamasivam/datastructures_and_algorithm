@@ -1,32 +1,60 @@
+# you can write to stdout for debugging purposes, e.g.
+# print("this is a debug message")
 
 
-class Solution:
-    
-    def split_string(self, s: str):
-        
-        left_counter = [0]*26
-        right_counter = [0]*26
-        res = 0
+def solution(S, T):
 
-        for c in s:
-            right_counter[ord(c) - ord('a')] += 1
-        
-        for i in range(len(s)):
-            left_counter[ord(s[i]) - ord('a')] += 1
-            right_counter[ord(s[i]) - ord('a')] -= 1
-            
-            if self.get_count(left_counter) == self.get_count(right_counter):
-                res += 1
-                
-        return res
-        
-            
-    def get_count(self, arr:str):
-        return sum(1 for x in arr if x>0)        
-        
+    s1 = convert_to_string(S)
+    s2 = convert_to_string(T)
+
+    if len(s1) != len(s2):
+        return False
     
+    for i, c in enumerate(s1):
+        
+        if c != '?' and s2[i] != '?' and c != s2[i]:
+            return False
     
-sol = Solution()
-print(sol.split_string('ababa')) 
-# print(sol.split_string('aaaa')) 
-# print(sol.split_string('bac')) 
+    return True
+
+
+def convert_to_string(val):
+
+    res = []
+
+    for c in val:
+        if c.isalpha():
+            res.append(c)
+        else:
+            v = ['?'] * int(c)
+            res.extend(v)
+
+    return res
+
+
+print(solution('10a', 'a10'))
+
+'''
+1. check length
+2. check mutually available characters are equal (including case)
+
+eg 1
+A2Le - 2pL1
+A2Le - 3L1
+
+A ? ? L e
+? ? p L ?
+
+eg 2
+ba1 - 1Ad
+
+b a ?
+? A d
+
+'''
+
+'''
+A2Le
+
+[A,] [?]*n
+'''
