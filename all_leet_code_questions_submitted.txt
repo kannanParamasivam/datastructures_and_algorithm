@@ -1,3 +1,4 @@
+0 minutes ago	*,Generate Parentheses*,	Accepted	32 ms	python3
 16 hours, 19 minutes ago	*,Word Break*,	Time Limit Exceeded	N/A	python3
 2 days, 20 hours ago	*,Balanced Binary Tree*/	Accepted	68 ms	python3
 1 hour, 39 minutes ago	*,Reorganize String*,	Wrong Answer	N/A	python3
