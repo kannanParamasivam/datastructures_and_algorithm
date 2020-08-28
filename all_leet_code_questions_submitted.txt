@@ -1,3 +1,6 @@
+16 hours, 19 minutes ago	*,Word Break*,	Time Limit Exceeded	N/A	python3
+2 days, 20 hours ago	*,Balanced Binary Tree*/	Accepted	68 ms	python3
+1 hour, 39 minutes ago	*,Reorganize String*,	Wrong Answer	N/A	python3
 53 minutes ago	*,Binary Tree Level Order Traversal*,	Accepted	64 ms	python3
 55 minutes ago	*,Binary Tree Level Order Traversal*,	Accepted	36 ms	python3
 6 hours, 59 minutes ago	*,Binary Tree Inorder Traversal*,	Accepted	32 ms	python3
@@ -70,7 +73,7 @@
 1 week, 1 day ago	*,Campus Bikes II*,	Wrong Answer	N/A	python3
 1 week, 1 day ago	*,Campus Bikes II*,	Wrong Answer	N/A	python3
 1 week, 1 day ago	*,Campus Bikes*,	Accepted	1192 ms	python3
-1 week, 1 day ago	*,Serialize and Deserialize BST	Time Limit Exceeded	N/A	python3
+1 week, 1 day ago	*,Serialize and Deserialize BST*,	Time Limit Exceeded	N/A	python3
 1 week, 2 days ago	*,Serialize and Deserialize Binary Tree*,	Wrong Answer	N/A	python3
 1 week, 2 days ago	*,Serialize and Deserialize Binary Tree*,	Wrong Answer	N/A	python3
 1 week, 2 days ago	*,Binary Search Tree Iterator*,	Accepted	72 ms	python3
@@ -215,7 +218,7 @@
 1 month ago	*,Is Subsequence*,	Wrong Answer	N/A	python3
 1 month ago	*,Is Subsequence*,	Wrong Answer	N/A	python3
 1 month ago	*,Is Subsequence*,	Runtime Error	N/A	python3
-1 month ago	*,Minimum Window Subsequence	Time Limit Exceeded	N/A	python3
+1 month ago	*,Minimum Window Subsequence*,	Time Limit Exceeded	N/A	python3
 1 month ago	*,Minimum Window Subsequence*,	Wrong Answer	N/A	python3
 1 month ago	*,Minimum Window Subsequence*,	Wrong Answer	N/A	
 1 month ago	*,Minimum Window Subsequence*,	Wrong Answer	N/A	python3
@@ -238,21 +241,21 @@
 1 month, 1 week ago	*,Reorder Data in Log Files*,	Accepted	48 ms	python3
 1 month, 1 week ago	*,Reorder Data in Log Files*,	Accepted	56 ms	python3
 1 month, 1 week ago	*,Number of Islands*,	Accepted	160 ms	python3
-1 month, 1 week ago	*,Number of Islands	Time Limit Exceeded	N/A	python3
+1 month, 1 week ago	*,Number of Islands*,	Time Limit Exceeded	N/A	python3
 1 month, 1 week ago	*,Search Suggestions System*,	Wrong Answer	N/A	python3
 1 month, 1 week ago	*,Search Suggestions System*,	Wrong Answer	N/A	python3
-1 month, 1 week ago	*,Critical Connections in a Network	Time Limit Exceeded	N/A	python3
-1 month, 1 week ago	*,Critical Connections in a Network	Time Limit Exceeded	N/A	python3
+1 month, 1 week ago	*,Critical Connections in a Network*,	Time Limit Exceeded	N/A	python3
+1 month, 1 week ago	*,Critical Connections in a Network*,	Time Limit Exceeded	N/A	python3
 1 month, 1 week ago	*,Critical Connections in a Network*,	Accepted	3172 ms	python3
 1 month, 1 week ago	*,Critical Connections in a Network*,	Wrong Answer	N/A	python3
 1 month, 1 week ago	*,Critical Connections in a Network*,	Runtime Error	N/A	python3
 1 month, 1 week ago	*,Critical Connections in a Network*,	Output Limit Exceeded	N/A	python3
 1 month, 1 week ago	*,Critical Connections in a Network*,	Wrong Answer	N/A	python3
-1 month, 1 week ago	*,Critical Connections in a Network	Time Limit Exceeded	N/A	python3
-1 month, 1 week ago	*,Critical Connections in a Network	Time Limit Exceeded	N/A	python3
-1 month, 1 week ago	*,Critical Connections in a Network	Time Limit Exceeded	N/A	python3
+1 month, 1 week ago	*,Critical Connections in a Network*,	Time Limit Exceeded	N/A	python3
+1 month, 1 week ago	*,Critical Connections in a Network*,	Time Limit Exceeded	N/A	python3
+1 month, 1 week ago	*,Critical Connections in a Network*,	Time Limit Exceeded	N/A	python3
 1 month, 1 week ago	*,Critical Connections in a Network*,	Accepted	3168 ms	python3
-1 month, 1 week ago	*,Critical Connections in a Network	Time Limit Exceeded	N/A	python3
+1 month, 1 week ago	*,Critical Connections in a Network*,	Time Limit Exceeded	N/A	python3
 1 month, 1 week ago	*,Critical Connections in a Network*,	Wrong Answer	N/A	python3
 1 month, 1 week ago	*,Critical Connections in a Network*,	Wrong Answer	N/A	python3
 1 month, 1 week ago	*,Critical Connections in a Network*,	Wrong Answer	N/A	python3
@@ -269,7 +272,7 @@
 1 month, 2 weeks ago	*,Number of Islands II*,	Wrong Answer	N/A	python3
 1 month, 2 weeks ago	*,Number of Islands*,	Accepted	180 ms	python3
 1 month, 2 weeks ago	*,Number of Islands*,	Runtime Error	N/A	python3
-1 month, 2 weeks ago	*,Number of Islands	Time Limit Exceeded	N/A	python3
+1 month, 2 weeks ago	*,Number of Islands*,	Time Limit Exceeded	N/A	python3
 1 month, 2 weeks ago	*,Reorder Data in Log Files*,	Accepted	68 ms	python3
 1 month, 2 weeks ago	*,Reorder Data in Log Files*,	Accepted	76 ms	python3
 1 month, 2 weeks ago	*,Reorder Data in Log Files*,	Accepted	52 ms	python3
@@ -311,7 +314,7 @@
 1 month, 2 weeks ago	*,Meeting Rooms II*,	Runtime Error	N/A	python3
 1 month, 2 weeks ago	*,Minimum Window Substring*,	Accepted	792 ms	python3
 1 month, 2 weeks ago	*,Minimum Window Substring*,	Wrong Answer	N/A	python3
-1 month, 2 weeks ago	*,Minimum Window Substring	Time Limit Exceeded	N/A	python3
+1 month, 2 weeks ago	*,Minimum Window Substring*,	Time Limit Exceeded	N/A	python3
 1 month, 2 weeks ago	*,Minimum Window Substring*,	Runtime Error	N/A	python3
 1 month, 2 weeks ago	*,Minimum Window Substring*,	Wrong Answer	N/A	python3
 1 month, 2 weeks ago	*,Minimum Window Substring*,	Wrong Answer	N/A	python3
@@ -510,12 +513,12 @@
 7 months, 3 weeks ago	*,Unique Paths*,	Wrong Answer	N/A	python3
 7 months, 3 weeks ago	*,Walls and Gates*,	Accepted	692 ms	python3
 7 months, 3 weeks ago	*,Rotting Oranges*,	Accepted	68 ms	python3
-7 months, 3 weeks ago	*,Unique Paths	Time Limit Exceeded	N/A	python3
+7 months, 3 weeks ago	*,Unique Paths*,	Time Limit Exceeded	N/A	python3
 7 months, 4 weeks ago	*,Validate Binary Search Tree*,	Accepted	44 ms	python3
 7 months, 4 weeks ago	*,Validate Binary Search Tree*,	Wrong Answer	N/A	python3
 7 months, 4 weeks ago	*,Validate Binary Search Tree*,	Wrong Answer	N/A	python3
 8 months ago	*,Game of Life*,	Accepted	24 ms	python3
-8 months ago	*,Number Of Corner Rectangles	Time Limit Exceeded	N/A	python3
+8 months ago	*,Number Of Corner Rectangles*,	Time Limit Exceeded	N/A	python3
 8 months, 1 week ago	*,Cheapest Flights Within K Stops*,	Accepted	184 ms	python3
 8 months, 1 week ago	*,Cheapest Flights Within K Stops*,	Wrong Answer	N/A	python3
 8 months, 1 week ago	*,Cheapest Flights Within K Stops*,	Wrong Answer	N/A	python3
@@ -657,12 +660,12 @@
 1 year, 4 months ago	*,Remove Invalid Parentheses*,	Runtime Error	N/A	csharp
 1 year, 4 months ago	*,Climbing Stairs*,	Accepted	36 ms	csharp
 1 year, 4 months ago	*,Climbing Stairs*,	Compile Error	N/A	csharp
-1 year, 4 months ago	*,Climbing Stairs	Time Limit Exceeded	N/A	csharp
+1 year, 4 months ago	*,Climbing Stairs*,	Time Limit Exceeded	N/A	csharp
 1 year, 4 months ago	*,Two Sum*,	Accepted	3 ms	java
 1 year, 4 months ago	*,Reverse Words in a String II*,	Accepted	1 ms	java
-1 year, 4 months ago	*,Word Ladder	Time Limit Exceeded	N/A	csharp
-1 year, 4 months ago	*,Word Ladder	Time Limit Exceeded	N/A	csharp
-1 year, 4 months ago	*,Word Ladder	Time Limit Exceeded	N/A	csharp
+1 year, 4 months ago	*,Word Ladder*,	Time Limit Exceeded	N/A	csharp
+1 year, 4 months ago	*,Word Ladder*,	Time Limit Exceeded	N/A	csharp
+1 year, 4 months ago	*,Word Ladder*,	Time Limit Exceeded	N/A	csharp
 1 year, 4 months ago	*,Word Ladder*,	Wrong Answer	N/A	csharp
 1 year, 4 months ago	*,Largest Rectangle in Histogram*,	Wrong Answer	N/A	csharp
 1 year, 4 months ago	*,Largest Rectangle in Histogram*,	Wrong Answer	N/A	csharp
