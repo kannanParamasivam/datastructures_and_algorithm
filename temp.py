@@ -1,60 +1,46 @@
-# you can write to stdout for debugging purposes, e.g.
-# print("this is a debug message")
 
 
-def solution(S, T):
-
-    s1 = convert_to_string(S)
-    s2 = convert_to_string(T)
-
-    if len(s1) != len(s2):
-        return False
-    
-    for i, c in enumerate(s1):
-        
-        if c != '?' and s2[i] != '?' and c != s2[i]:
-            return False
-    
-    return True
+class Solution(object):
 
 
-def convert_to_string(val):
+    def canFinish(self, numCourses, prerequisites):
+        """
+        :type numCourses: int
+        :type prerequisites: List[List[int]]
+        :rtype: bool
+        """
+        from collections import defaultdict
+        courseDict = defaultdict(list)
 
-    res = []
+        # create graph
+        for relation in prerequisites:
+            nextCourse, prevCourse = relation[0], relation[1]
+            courseDict[prevCourse].append(nextCourse)
 
-    for c in val:
-        if c.isalpha():
-            res.append(c)
-        else:
-            v = ['?'] * int(c)
-            res.extend(v)
-
-    return res
+        path = [False] * numCourses
+        for currCourse in range(numCourses):
+            if self.isCyclic(currCourse, courseDict, path):
+                return False
+        return True
 
 
-print(solution('10a', 'a10'))
+    def isCyclic(self, currCourse, courseDict, path):
+        """
+        backtracking method to check that no cycle would be formed starting from currCourse
+        """
+        if path[currCourse]:
+            # come across a previously visited node, i.e. detect the cycle
+            return True
 
-'''
-1. check length
-2. check mutually available characters are equal (including case)
+        # before backtracking, mark the node in the path
+        path[currCourse] = True
 
-eg 1
-A2Le - 2pL1
-A2Le - 3L1
+        # backtracking
+        ret = False
+        for child in courseDict[currCourse]:
+            ret = self.isCyclic(child, courseDict, path)
+            if ret: break
 
-A ? ? L e
-? ? p L ?
-
-eg 2
-ba1 - 1Ad
-
-b a ?
-? A d
-
-'''
-
-'''
-A2Le
-
-[A,] [?]*n
-'''
+        # after backtracking, remove the node from the path
+        path[currCourse] = False
+        return ret
