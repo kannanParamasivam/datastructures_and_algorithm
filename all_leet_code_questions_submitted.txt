@@ -1,3 +1,8 @@
+20 hours, 22 minutes ago	*,Minimum Cost to Connect Sticks*,	Accepted	1360 ms	python3
+22 hours, 50 minutes ago	*,Search a 2D Matrix*,	Accepted	104 ms	python3
+23 hours, 4 minutes ago	*,Search a 2D Matrix II*,	Accepted	60 ms	python3
+1 day, 1 hour ago	*,Read N Characters Given Read4*,	Accepted	28 ms	python3
+2 days, 5 hours ago	*,Maximum Depth of Binary Tree*,	Accepted	44 ms	python3
 4 minutes ago	*,Decode Ways*,	Accepted	48 ms	python3
 7 hours, 50 minutes ago	*,Letter Case Permutation*,	Accepted	80 ms	python3
 3 minutes ago	*,Evaluate Division*,	Accepted	32 ms	python3
