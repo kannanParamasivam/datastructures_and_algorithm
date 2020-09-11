@@ -1,3 +1,4 @@
+20 hours, 22 minutes ago	*,Find Available Time*,	Accepted	1360 ms	python3
 20 hours, 22 minutes ago	*,Minimum Cost to Connect Sticks*,	Accepted	1360 ms	python3
 22 hours, 50 minutes ago	*,Search a 2D Matrix*,	Accepted	104 ms	python3
 23 hours, 4 minutes ago	*,Search a 2D Matrix II*,	Accepted	60 ms	python3
