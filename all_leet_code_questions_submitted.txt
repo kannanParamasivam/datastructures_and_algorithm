@@ -1,3 +1,263 @@
+4 weeks ago	*,Binary Tree Preorder Traversal*,	Accepted	48 ms	python3
+4 weeks ago	*,Binary Tree Preorder Traversal*,	Wrong Answer	N/A	python3
+4 weeks ago	*,Binary Tree Preorder Traversal*,	Wrong Answer	N/A	python3
+4 weeks, 1 day ago	*,Lowest Common Ancestor of a Binary Tree*,	Accepted	124 ms	python3
+4 weeks, 1 day ago	*,Lowest Common Ancestor of a Binary Tree*,	Wrong Answer	N/A	python3
+4 weeks, 1 day ago	*,Letter Combinations of a Phone Number*,	Accepted	40 ms	python3
+1 month ago	*,Same Tree*,	Accepted	32 ms	python3
+1 month ago	*,Same Tree*,	Accepted	52 ms	python3
+1 month ago	*,Same Tree*,	Accepted	52 ms	python3
+1 month ago	*,Same Tree*,	Accepted	28 ms	python3
+1 month ago	*,Same Tree*,	Runtime Error	N/A	python3
+1 month ago	*,Flatten Binary Tree to Linked List*,	Accepted	56 ms	python3
+1 month ago	*,Flatten Binary Tree to Linked List*,	Accepted	88 ms	python3
+1 month ago	*,Flatten Binary Tree to Linked List*,	Accepted	32 ms	python3
+1 month ago	*,Flatten Binary Tree to Linked List*,	Accepted	56 ms	python3
+1 month ago	*,Reconstruct Itinerary*,	Wrong Answer	N/A	python3
+1 month ago	*,Reconstruct Itinerary*,	Accepted	128 ms	python3
+1 month ago	*,Reconstruct Itinerary*,	Accepted	72 ms	python3
+1 month ago	*,Reconstruct Itinerary*,	Accepted	84 ms	python3
+1 month ago	*,Reconstruct Itinerary*,	Wrong Answer	N/A	python3
+3 weeks, 5 days ago	*,Top K Frequent Words*,	Wrong Answer	N/A	python3
+3 weeks, 6 days ago	*,Subarray Sum Equals K*,	Wrong Answer	N/A	python3
+3 weeks, 6 days ago	*,Continuous Subarray Sum*,	Wrong Answer	N/A	python3
+3 weeks, 6 days ago	*,Continuous Subarray Sum*,	Wrong Answer	N/A	python3
+3 weeks, 6 days ago	*,Continuous Subarray Sum*,	Wrong Answer	N/A	python3
+3 weeks, 6 days ago	*,Continuous Subarray Sum*,	Wrong Answer	N/A	python3
+3 weeks, 6 days ago	*,Continuous Subarray Sum*,	Wrong Answer	N/A	python3
+3 weeks, 6 days ago	*,Continuous Subarray Sum*,	Wrong Answer	N/A	python3
+3 weeks, 6 days ago	*,Continuous Subarray Sum*,	Wrong Answer	N/A	python3
+3 weeks, 6 days ago	*,Continuous Subarray Sum*,	Runtime Error	N/A	python3
+3 weeks, 6 days ago	*,Trapping Rain Water*,	Accepted	76 ms	python3
+3 weeks, 6 days ago	*,Trapping Rain Water*,	Wrong Answer	N/A	python3
+3 weeks, 6 days ago	*,Trapping Rain Water*,	Runtime Error	N/A	python3
+3 weeks, 6 days ago	*,Trapping Rain Water*,	Accepted	104 ms	python3
+4 weeks ago	*,Binary Tree Level Order Traversal*,	Accepted	64 ms	python3
+4 weeks ago	*,Binary Tree Level Order Traversal*,	Accepted	36 ms	python3
+4 weeks ago	*,Binary Tree Inorder Traversal*,	Accepted	32 ms	python3
+4 weeks ago	*,Binary Tree Postorder Traversal*,	Accepted	44 ms	python3
+4 weeks ago	*,Binary Tree Inorder Traversal*,	Accepted	28 ms	python3
+4 weeks ago	*,Binary Tree Preorder Traversal*,	Accepted	52 ms	python3
+3 weeks, 4 days ago	*,Balanced Binary Tree*,	Accepted	68 ms	python3
+3 weeks, 4 days ago	*,Balanced Binary Tree*,	Wrong Answer	N/A	python3
+3 weeks, 5 days ago	*,Binary Tree Level Order Traversal*,	Accepted	32 ms	python3
+3 weeks, 5 days ago	*,Binary Tree Preorder Traversal*,	Accepted	56 ms	python3
+3 weeks, 5 days ago	*,Same Tree*,	Accepted	44 ms	python3
+3 weeks, 5 days ago	*,Same Tree*,	Wrong Answer	N/A	python3
+3 weeks, 5 days ago	*,Same Tree*,	Wrong Answer	N/A	python3
+3 weeks, 5 days ago	*,Same Tree*,	Accepted	40 ms	python3
+3 weeks, 5 days ago	*,Same Tree*,	Wrong Answer	N/A	python3
+3 weeks, 5 days ago	*,Same Tree*,	Runtime Error	N/A	python3
+3 weeks, 5 days ago	*,Same Tree*,	Wrong Answer	N/A	python3
+3 weeks, 5 days ago	*,Reorganize String*,	Wrong Answer	N/A	python3
+3 weeks, 5 days ago	*,Continuous Subarray Sum*,	Accepted	240 ms	python3
+3 weeks, 5 days ago	*,Continuous Subarray Sum*,	Wrong Answer	N/A	python3
+3 weeks, 5 days ago	*,Continuous Subarray Sum*,	Runtime Error	N/A	python3
+3 weeks, 5 days ago	*,Continuous Subarray Sum*,	Wrong Answer	N/A	python3
+3 weeks, 5 days ago	*,Continuous Subarray Sum*,	Wrong Answer	N/A	python3
+3 weeks, 5 days ago	*,Top K Frequent Words*,	Accepted	68 ms	python3
+3 weeks, 5 days ago	*,Top K Frequent Words*,	Accepted	68 ms	python3
+3 weeks, 5 days ago	*,Top K Frequent Words*,	Wrong Answer	N/A	python3
+3 weeks, 1 day ago	*,Clone Graph*,	Accepted	40 ms	python3
+3 weeks, 1 day ago	*,Clone Graph*,	Accepted	40 ms	python3
+3 weeks, 1 day ago	*,Clone Graph*,	Accepted	40 ms	python3
+3 weeks, 1 day ago	*,Clone Graph*,	Accepted	36 ms	python3
+3 weeks, 1 day ago	*,Generate Parentheses*,	Accepted	32 ms	python3
+3 weeks, 1 day ago	*,Word Break*,	Accepted	36 ms	python3
+3 weeks, 1 day ago	*,Word Break*,	Time Limit Exceeded	N/A	python3
+3 weeks, 1 day ago	*,Word Break*,	Time Limit Exceeded	N/A	python3
+3 weeks, 2 days ago	*,Word Break*,	Time Limit Exceeded	N/A	python3
+3 weeks, 2 days ago	*,Word Break*,	Wrong Answer	N/A	python3
+3 weeks, 2 days ago	*,Word Break*,	Wrong Answer	N/A	python3
+3 weeks, 2 days ago	*,Course Schedule*,	Wrong Answer	N/A	python3
+3 weeks, 4 days ago	*,Cheapest Flights Within K Stops*,	Accepted	100 ms	python3
+3 weeks, 4 days ago	*,Cheapest Flights Within K Stops*,	Wrong Answer	N/A	python3
+3 weeks, 4 days ago	*,Cheapest Flights Within K Stops*,	Wrong Answer	N/A	python3
+3 weeks, 4 days ago	*,Cheapest Flights Within K Stops*,	Wrong Answer	N/A	python3
+3 weeks, 4 days ago	*,Cheapest Flights Within K Stops*,	Wrong Answer	N/A	python3
+3 weeks, 4 days ago	*,Cheapest Flights Within K Stops*,	Time Limit Exceeded	N/A	python3
+3 weeks, 4 days ago	*,Populating Next Right Pointers in Each Node*,	Accepted	108 ms	python3
+3 weeks, 4 days ago	*,Subarray Sum Equals K*,	Wrong Answer	N/A	python3
+2 weeks, 5 days ago	*,Closest Binary Search Tree Value*,	Wrong Answer	N/A	python3
+2 weeks, 5 days ago	*,Closest Binary Search Tree Value*,	Accepted	36 ms	python3
+2 weeks, 5 days ago	*,Cheapest Flights Within K Stops*,	Accepted	308 ms	python3
+2 weeks, 5 days ago	*,Cheapest Flights Within K Stops*,	Accepted	284 ms	python3
+2 weeks, 5 days ago	*,Maximum Depth of Binary Tree*,	Accepted	44 ms	python3
+2 weeks, 5 days ago	*,Balanced Binary Tree*,	Accepted	40 ms	python3
+2 weeks, 5 days ago	*,Balanced Binary Tree*,	Wrong Answer	N/A	python3
+2 weeks, 6 days ago	*,Populating Next Right Pointers in Each Node*,	Accepted	132 ms	python3
+2 weeks, 6 days ago	*,Trapping Rain Water*,	Accepted	104 ms	python3
+2 weeks, 6 days ago	*,Trapping Rain Water*,	Accepted	72 ms	python3
+2 weeks, 6 days ago	*,Trapping Rain Water*,	Wrong Answer	N/A	python3
+2 weeks, 6 days ago	*,Decode Ways*,	Accepted	48 ms	python3
+2 weeks, 6 days ago	*,Decode Ways*,	Wrong Answer	N/A	python3
+2 weeks, 6 days ago	*,Decode Ways*,	Wrong Answer	N/A	python3
+2 weeks, 6 days ago	*,Binary Tree Level Order Traversal*,	Accepted	20 ms	python3
+2 weeks, 6 days ago	*,Letter Case Permutation*,	Accepted	80 ms	python3
+3 weeks ago	*,Evaluate Division*,	Accepted	32 ms	python3
+3 weeks ago	*,Evaluate Division*,	Wrong Answer	N/A	python3
+3 weeks ago	*,Course Schedule*,	Accepted	96 ms	python3
+3 weeks ago	*,Course Schedule*,	Wrong Answer	N/A	python3
+2 weeks, 4 days ago	*,Largest Time for Given Digits*,	Wrong Answer	N/A	python3
+2 weeks, 4 days ago	*,Largest Time for Given Digits*,	Wrong Answer	N/A	python3
+2 weeks, 4 days ago	*,Largest Time for Given Digits*,	Time Limit Exceeded	N/A	python3
+2 weeks, 4 days ago	*,Search a 2D Matrix*,	Accepted	104 ms	python3
+2 weeks, 4 days ago	*,Search a 2D Matrix II*,	Accepted	44 ms	python3
+2 weeks, 4 days ago	*,Search a 2D Matrix II*,	Accepted	60 ms	python3
+2 weeks, 4 days ago	*,Search a 2D Matrix II*,	Wrong Answer	N/A	python3
+2 weeks, 4 days ago	*,Walls and Gates*,	Accepted	432 ms	python3
+2 weeks, 4 days ago	*,Walls and Gates*,	Accepted	444 ms	python3
+2 weeks, 4 days ago	*,Top K Frequent Words*,	Accepted	124 ms	python3
+2 weeks, 4 days ago	*,Read N Characters Given Read4*,	Accepted	28 ms	python3
+2 weeks, 4 days ago	*,Read N Characters Given Read4*,	Accepted	40 ms	python3
+2 weeks, 4 days ago	*,Read N Characters Given Read4*,	Accepted	28 ms	python3
+2 weeks, 5 days ago	*,Walls and Gates*,	Accepted	336 ms	python3
+2 weeks, 5 days ago	*,Walls and Gates*,	Accepted	344 ms	python3
+2 weeks, 5 days ago	*,Walls and Gates*,	Accepted	340 ms	python3
+2 weeks, 5 days ago	*,Walls and Gates*,	Accepted	688 ms	python3
+2 weeks, 5 days ago	*,Closest Binary Search Tree Value*,	Accepted	64 ms	python3
+2 weeks, 5 days ago	*,Closest Binary Search Tree Value*,	Wrong Answer	N/A	python3
+2 weeks, 5 days ago	*,Closest Binary Search Tree Value*,	Wrong Answer	N/A	python3
+2 weeks, 2 days ago	*,Course Schedule*,	Wrong Answer	N/A	python3
+2 weeks, 2 days ago	*,Course Schedule*,	Wrong Answer	N/A	python3
+2 weeks, 2 days ago	*,Next Permutation*,	Wrong Answer	N/A	python3
+2 weeks, 3 days ago	*,Course Schedule*,	Accepted	188 ms	python3
+2 weeks, 3 days ago	*,Course Schedule*,	Accepted	196 ms	python3
+2 weeks, 3 days ago	*,Course Schedule*,	Wrong Answer	N/A	python3
+2 weeks, 3 days ago	*,Is Graph Bipartite?*,	Accepted	272 ms	python3
+2 weeks, 3 days ago	*,Is Graph Bipartite?*,	Wrong Answer	N/A	python3
+2 weeks, 3 days ago	*,Is Graph Bipartite?*,	Wrong Answer	N/A	python3
+2 weeks, 4 days ago	*,Minimum Cost to Connect Sticks*,	Accepted	1360 ms	python3
+2 weeks, 4 days ago	*,Minimum Cost to Connect Sticks*,	Wrong Answer	N/A	python3
+2 weeks, 4 days ago	*,Minimum Cost to Connect Sticks*,	Accepted	1656 ms	python3
+2 weeks, 4 days ago	*,Minimum Cost to Connect Sticks*,	Wrong Answer	N/A	python3
+2 weeks, 4 days ago	*,Search a 2D Matrix*,	Accepted	72 ms	python3
+2 weeks, 4 days ago	*,Search a 2D Matrix*,	Wrong Answer	N/A	python3
+2 weeks, 4 days ago	*,Search a 2D Matrix*,	Wrong Answer	N/A	python3
+2 weeks, 4 days ago	*,Search a 2D Matrix*,	Runtime Error	N/A	python3
+2 weeks, 4 days ago	*,Largest Time for Given Digits*,	Wrong Answer	N/A	python3
+2 weeks, 4 days ago	*,Search a 2D Matrix*,	Runtime Error	N/A	python3
+2 weeks, 4 days ago	*,Largest Time for Given Digits*,	Wrong Answer	N/A	python3
+1 week, 2 days ago	*,Flatten Binary Tree to Linked List*,	Accepted	40 ms	python3
+1 week, 3 days ago	*,Rotting Oranges*,	Accepted	52 ms	python3
+1 week, 3 days ago	*,Rotting Oranges*,	Wrong Answer	N/A	python3
+1 week, 3 days ago	*,Reverse Linked List*,	Accepted	32 ms	python3
+1 week, 4 days ago	*,Is Graph Bipartite?*,	Accepted	176 ms	python3
+1 week, 4 days ago	*,Is Graph Bipartite?*,	Wrong Answer	N/A	python3
+1 week, 5 days ago	*,Minimum Cost to Connect Sticks*,	Accepted	1248 ms	python3
+1 week, 5 days ago	*,Search a 2D Matrix II*,	Accepted	32 ms	python3
+1 week, 5 days ago	*,Search a 2D Matrix II*,	Runtime Error	N/A	python3
+1 week, 5 days ago	*,Search a 2D Matrix II*,	Runtime Error	N/A	python3
+1 week, 5 days ago	*,Walls and Gates*,	Accepted	332 ms	python3
+1 week, 5 days ago	*,Closest Binary Search Tree Value*,	Accepted	40 ms	python3
+1 week, 5 days ago	*,Closest Binary Search Tree Value*,	Accepted	40 ms	python3
+2 weeks, 1 day ago	*,Next Permutation*,	Wrong Answer	N/A	python3
+2 weeks, 1 day ago	*,Next Permutation*,	Wrong Answer	N/A	python3
+2 weeks, 1 day ago	*,Reorder Data in Log Files*,	Accepted	36 ms	python3
+2 weeks, 1 day ago	*,Reconstruct Itinerary*,	Accepted	80 ms	python3
+2 weeks, 1 day ago	*,Reconstruct Itinerary*,	Wrong Answer	N/A	python3
+2 weeks, 2 days ago	*,Course Schedule*,	Accepted	104 ms	python3
+2 weeks, 2 days ago	*,Course Schedule*,	Wrong Answer	N/A	python3
+6 days, 17 hours ago	*,Merge Intervals*,	Wrong Answer	N/A	python3
+6 days, 18 hours ago	*,LRU Cache*,	Wrong Answer	N/A	python3
+1 week ago	*,Product of Array Except Self*,	Accepted	108 ms	python3
+1 week ago	*,Product of Array Except Self*,	Accepted	124 ms	python3
+1 week ago	*,Add Two Numbers*,	Accepted	92 ms	python3
+1 week ago	*,Add Two Numbers*,	Accepted	64 ms	python3
+1 week ago	*,Add Two Numbers*,	Runtime Error	N/A	python3
+1 week ago	*,Add Two Numbers*,	Runtime Error	N/A	python3
+1 week ago	*,Find K Pairs with Smallest Sums*,	Accepted	1420 ms	python3
+1 week ago	*,Reorder Data in Log Files*,	Wrong Answer	N/A	python3
+1 week, 1 day ago	*,Remove Invalid Parentheses*,	Accepted	60 ms	python3
+1 week, 1 day ago	*,Remove Invalid Parentheses*,	Wrong Answer	N/A	python3
+1 week, 1 day ago	*,Remove Invalid Parentheses*,	Accepted	60 ms	python3
+1 week, 1 day ago	*,Coin Change*,	Accepted	3332 ms	python3
+1 week, 2 days ago	*,Coin Change*,	Wrong Answer	N/A	python3
+1 week, 2 days ago	*,Coin Change*,	Accepted	1124 ms	python3
+1 week, 2 days ago	*,Coin Change*,	Time Limit Exceeded	N/A	python3
+1 week, 2 days ago	*,Flatten Binary Tree to Linked List*,	Accepted	32 ms	python3
+1 week, 2 days ago	*,Flatten Binary Tree to Linked List*,	Accepted	40 ms	python3
+1 week, 2 days ago	*,Flatten Binary Tree to Linked List*,	Accepted	40 ms	python3
+4 days, 16 hours ago	*,Vertical Order Traversal of a Binary Tree*,	Wrong Answer	N/A	python3
+4 days, 16 hours ago	*,Vertical Order Traversal of a Binary Tree*,	Wrong Answer	N/A	python3
+4 days, 16 hours ago	*,Vertical Order Traversal of a Binary Tree*,	Accepted	44 ms	python3
+4 days, 16 hours ago	*,Vertical Order Traversal of a Binary Tree*,	Wrong Answer	N/A	python3
+4 days, 16 hours ago	*,Vertical Order Traversal of a Binary Tree*,	Wrong Answer	N/A	python3
+4 days, 16 hours ago	*,Vertical Order Traversal of a Binary Tree*,	Wrong Answer	N/A	python3
+4 days, 16 hours ago	*,Vertical Order Traversal of a Binary Tree*,	Wrong Answer	N/A	python3
+4 days, 17 hours ago	*,Binary Tree Right Side View*,	Accepted	32 ms	python3
+5 days, 9 hours ago	*,Critical Connections in a Network*,	Time Limit Exceeded	N/A	python3
+5 days, 9 hours ago	*,Critical Connections in a Network*,	Accepted	2988 ms	python3
+5 days, 9 hours ago	*,Critical Connections in a Network*,	Time Limit Exceeded	N/A	python3
+5 days, 9 hours ago	*,Critical Connections in a Network*,	Time Limit Exceeded	N/A	python3
+5 days, 10 hours ago	*,Critical Connections in a Network*,	Time Limit Exceeded	N/A	python3
+5 days, 13 hours ago	*,All Nodes Distance K in Binary Tree*,	Accepted	40 ms	python3
+5 days, 18 hours ago	*,Diameter of Binary Tree*,	Accepted	84 ms	python3
+6 days, 8 hours ago	*,Add Strings*,	Accepted	96 ms	python3
+6 days, 8 hours ago	*,Add Strings*,	Accepted	56 ms	python3
+6 days, 8 hours ago	*,Add Strings*,	Runtime Error	N/A	python3
+6 days, 8 hours ago	*,Add Strings*,	Runtime Error	N/A	python3
+6 days, 17 hours ago	*,Merge Intervals*,	Accepted	116 ms	python3
+3 days, 10 hours ago	*,Binary Tree Zigzag Level Order Traversal*,	Accepted	28 ms	python3
+3 days, 10 hours ago	*,Binary Tree Zigzag Level Order Traversal*,	Accepted	44 ms	python3
+3 days, 10 hours ago	*,Binary Tree Zigzag Level Order Traversal*,	Accepted	36 ms	python3
+3 days, 10 hours ago	*,Binary Tree Zigzag Level Order Traversal*,	Accepted	68 ms	python3
+3 days, 10 hours ago	*,Binary Tree Zigzag Level Order Traversal*,	Accepted	68 ms	python3
+3 days, 10 hours ago	*,Binary Tree Zigzag Level Order Traversal*,	Accepted	40 ms	python3
+3 days, 11 hours ago	*,Binary Tree Zigzag Level Order Traversal*,	Wrong Answer	N/A	python3
+3 days, 21 hours ago	*,Paint House II*,	Accepted	5 ms	java
+3 days, 21 hours ago	*,Paint House II*,	Time Limit Exceeded	N/A	java
+4 days, 8 hours ago	*,Same Tree*,	Accepted	36 ms	python3
+4 days, 8 hours ago	*,Invert Binary Tree*,	Accepted	24 ms	python3
+4 days, 8 hours ago	*,Climbing Stairs*,	Wrong Answer	N/A	python3
+4 days, 8 hours ago	*,Unique Binary Search Trees*,	Accepted	28 ms	python3
+4 days, 8 hours ago	*,Unique Binary Search Trees*,	Accepted	44 ms	python3
+4 days, 9 hours ago	*,Construct Binary Tree from Inorder and Postorder Traversal*,	Accepted	188 ms	python3
+4 days, 9 hours ago	*,Construct Binary Tree from Preorder and Inorder Traversal*,	Accepted	252 ms	python3
+4 days, 14 hours ago	*,Vertical Order Traversal of a Binary Tree*,	Accepted	48 ms	python3
+4 days, 14 hours ago	*,Vertical Order Traversal of a Binary Tree*,	Wrong Answer	N/A	python3
+4 days, 15 hours ago	*,Vertical Order Traversal of a Binary Tree*,	Wrong Answer	N/A	python3
+4 days, 15 hours ago	*,Vertical Order Traversal of a Binary Tree*,	Wrong Answer	N/A	python3
+2 days, 12 hours ago	*,Word Ladder*,	Accepted	96 ms	python3
+2 days, 12 hours ago	*,Word Ladder*,	Accepted	96 ms	python3
+2 days, 12 hours ago	*,Word Ladder*,	Accepted	88 ms	python3
+2 days, 12 hours ago	*,Word Ladder*,	Accepted	520 ms	python3
+2 days, 12 hours ago	*,Word Ladder*,	Wrong Answer	N/A	python3
+2 days, 12 hours ago	*,Word Ladder*,	Accepted	508 ms	python3
+2 days, 12 hours ago	*,Word Ladder*,	Accepted	508 ms	python3
+2 days, 12 hours ago	*,Word Ladder*,	Wrong Answer	N/A	python3
+2 days, 12 hours ago	*,Word Ladder*,	Wrong Answer	N/A	python3
+2 days, 13 hours ago	*,Course Schedule*,	Accepted	108 ms	python3
+2 days, 13 hours ago	*,Course Schedule II*,	Accepted	116 ms	python3
+2 days, 14 hours ago	*,Course Schedule II*,	Wrong Answer	N/A	python3
+2 days, 14 hours ago	*,Course Schedule II*,	Accepted	112 ms	python3
+2 days, 14 hours ago	*,Course Schedule II*,	Wrong Answer	N/A	python3
+2 days, 14 hours ago	*,Course Schedule II*,	Accepted	112 ms	python3
+2 days, 14 hours ago	*,Course Schedule II*,	Runtime Error	N/A	python3
+2 days, 14 hours ago	*,Course Schedule II*,	Wrong Answer	N/A	python3
+2 days, 15 hours ago	*,Course Schedule II*,	Wrong Answer	N/A	python3
+3 days, 9 hours ago	*,Path Sum III*,	Wrong Answer	N/A	python3
+3 days, 10 hours ago	*,Binary Tree Zigzag Level Order Traversal*,	Accepted	36 ms	python3
+12 hours, 44 minutes ago	*,Perfect Squares*,	Accepted	336 ms	python3
+12 hours, 49 minutes ago	*,Perfect Squares*,	Accepted	324 ms	python3
+12 hours, 52 minutes ago	*,Perfect Squares*,	Time Limit Exceeded	N/A	python3
+14 hours, 3 minutes ago	*,Vertical Order Traversal of a Binary Tree*,	Accepted	28 ms	python3
+14 hours, 5 minutes ago	*,Vertical Order Traversal of a Binary Tree*,	Accepted	36 ms	python3
+15 hours, 2 minutes ago	*,All Nodes Distance K in Binary Tree*,	Accepted	40 ms	python3
+15 hours, 6 minutes ago	*,All Nodes Distance K in Binary Tree*,	Wrong Answer	N/A	python3
+17 hours, 53 minutes ago	*,Next Permutation*,	Accepted	36 ms	python3
+21 hours, 36 minutes ago	*,Next Permutation*,	Accepted	44 ms	python3
+21 hours, 37 minutes ago	*,Next Permutation*,	Accepted	48 ms	python3
+21 hours, 38 minutes ago	*,Next Permutation*,	Runtime Error	N/A	python3
+21 hours, 40 minutes ago	*,Next Permutation*,	Wrong Answer	N/A	python3
+23 hours, 23 minutes ago	*,Permutations*,	Accepted	56 ms	python3
+1 day ago	*,Max Area of Island*,	Accepted	172 ms	python3
+1 day ago	*,Max Area of Island*,	Wrong Answer	N/A	python3
+1 day ago	*,Max Area of Island*,	Wrong Answer	N/A	python3
+1 day ago	*,Max Area of Island*,	Wrong Answer	N/A	python3
+1 day ago	*,Max Area of Island*,	Wrong Answer	N/A	python3
+1 day, 14 hours ago	*,Minesweeper*,	Wrong Answer	N/A	python3
+2 days, 12 hours ago	*,Word Ladder*,	Accepted	516 ms	python3
 20 hours, 22 minutes ago	*,Find Available Time*,	Accepted	1360 ms	python3
 20 hours, 22 minutes ago	*,Minimum Cost to Connect Sticks*,	Accepted	1360 ms	python3
 22 hours, 50 minutes ago	*,Search a 2D Matrix*,	Accepted	104 ms	python3
@@ -746,7 +1006,6 @@
 1 year, 5 months ago	*,LRU Cache*,	Accepted	264 ms	csharp
 1 year, 5 months ago	*,Binary Tree Inorder Traversal*,	Accepted	0 ms	java
 1 year, 5 months ago	*,Binary Tree Inorder Traversal*,	Wrong Answer	N/A	java
-1 year, 5 months ago	*,Remove Element*,	Wrong Answer	N/A	java
 1 year, 5 months ago	*,Shortest Word Distance*,	Accepted	1 ms	java
 1 year, 5 months ago	*,Shortest Word Distance*,	Compile Error	N/A	java
 1 year, 5 months ago	*,Shortest Word Distance*,	Accepted	4 ms	java

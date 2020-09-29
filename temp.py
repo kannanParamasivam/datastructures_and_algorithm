@@ -1,46 +1,35 @@
+import math
 
 
-class Solution(object):
+def count_min_jumps(jumps):
+  return count_min_jumps_recursive(jumps, 0)
 
 
-    def canFinish(self, numCourses, prerequisites):
-        """
-        :type numCourses: int
-        :type prerequisites: List[List[int]]
-        :rtype: bool
-        """
-        from collections import defaultdict
-        courseDict = defaultdict(list)
+def count_min_jumps_recursive(jumps, currentIndex):
+  n = len(jumps)
+  # if we have reached the last index, we don't need any more jumps
+  if currentIndex == n - 1:
+    return 0
 
-        # create graph
-        for relation in prerequisites:
-            nextCourse, prevCourse = relation[0], relation[1]
-            courseDict[prevCourse].append(nextCourse)
+  if jumps[currentIndex] == 0:
+    return math.inf
 
-        path = [False] * numCourses
-        for currCourse in range(numCourses):
-            if self.isCyclic(currCourse, courseDict, path):
-                return False
-        return True
+  totalJumps = math.inf
+  start, end = currentIndex + 1, currentIndex + jumps[currentIndex]
+  while start < n and start <= end:
+    # jump one step and recurse for the remaining array
+    minJumps = count_min_jumps_recursive(jumps, start)
+    start += 1
+    if minJumps != math.inf:
+      totalJumps = min(totalJumps, minJumps + 1)
+
+  return totalJumps
 
 
-    def isCyclic(self, currCourse, courseDict, path):
-        """
-        backtracking method to check that no cycle would be formed starting from currCourse
-        """
-        if path[currCourse]:
-            # come across a previously visited node, i.e. detect the cycle
-            return True
+def main():
 
-        # before backtracking, mark the node in the path
-        path[currCourse] = True
+  #print(count_min_jumps([2, 1, 1, 1, 4]))
+  print(count_min_jumps([1, 1, 3, 6, 9, 3, 0, 1, 3]))
 
-        # backtracking
-        ret = False
-        for child in courseDict[currCourse]:
-            ret = self.isCyclic(child, courseDict, path)
-            if ret: break
 
-        # after backtracking, remove the node from the path
-        path[currCourse] = False
-        return ret
+main()
