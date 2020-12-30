@@ -1,5 +1,7 @@
 '''
 Find averages of Contiguous subarrays of size K
+
+O(N) solution
 '''
 
 
