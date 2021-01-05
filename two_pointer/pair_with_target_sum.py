@@ -11,17 +11,24 @@ class Solution:
 
     def pair_with_target_sum(self, arr: List[int], target_sum: int) -> List[int]:
 
-        nums_dict = {}
-        i = 0
+        left_ptr = 0
+        right_ptr = len(arr) - 1
 
-        for i in range(len(arr)):
-            num = arr[i]
-            rem = target_sum - num
+        while left_ptr < right_ptr:
 
-            if rem in nums_dict:
-                return [i, nums_dict[rem]]
+            left_val = arr[left_ptr]
+            right_val = arr[right_ptr]
+            s = left_val + right_val
 
-            nums_dict[num] = i
+            if s == target_sum:
+                return [left_ptr, right_ptr]
+            elif s < target_sum:
+                left_ptr += 1
+            elif s > target_sum:
+                right_ptr -= 1
+
+        return [-1, -1]
+
 
 
 sol = Solution()
