@@ -16,3 +16,11 @@ class LinkedListHelper:
 			currentNode = list_node
 
 		return header.next
+
+
+	@staticmethod
+	def print_linked_list(head: ListNode):
+
+		while head:
+			print(head.val)
+			head = head.next
